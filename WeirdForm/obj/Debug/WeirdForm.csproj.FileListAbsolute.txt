@@ -1,0 +1,10 @@
+C:\Users\Student\source\repos\WeirdForm\bin\Debug\WeirdForm.exe.config
+C:\Users\Student\source\repos\WeirdForm\bin\Debug\WeirdForm.exe
+C:\Users\Student\source\repos\WeirdForm\bin\Debug\WeirdForm.pdb
+C:\Users\Student\source\repos\WeirdForm\obj\Debug\WeirdForm.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\WeirdForm\obj\Debug\WeirdForm.Properties.Resources.resources
+C:\Users\Student\source\repos\WeirdForm\obj\Debug\WeirdForm.WeirdForm.resources
+C:\Users\Student\source\repos\WeirdForm\obj\Debug\WeirdForm.csproj.GenerateResource.cache
+C:\Users\Student\source\repos\WeirdForm\obj\Debug\WeirdForm.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\WeirdForm\obj\Debug\WeirdForm.exe
+C:\Users\Student\source\repos\WeirdForm\obj\Debug\WeirdForm.pdb
